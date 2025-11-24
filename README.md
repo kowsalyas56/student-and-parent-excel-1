@@ -11,7 +11,7 @@ To analyze student performance and understand the influence of gender, school ty
 - Which school performs better in G1, G2, and G3 marks?
 - How do student activities vary by guardian?
 - How does parental education differ by guardian type?
-- What age group and school combination impacts performance?
+- What age group and school combination impacts performance?<br/>
 Dashboard Interactions :<a href="https://github.com/kowsalyas56/student-and-parent-excel-1/blob/main/Screenshot%20(44).png">View Dashboard</a>
 
 ## Process
